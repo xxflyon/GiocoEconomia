@@ -1,5 +1,5 @@
 
-Come giocare
+##Come giocare
 Esegui il file main.py con Python:
 python main.py
 
@@ -12,6 +12,6 @@ Poi scegli un’azione tra quelle disponibili:
 5  Vendere grano → guadagni 15 euro per unità.
 6  Uscire → termina il gioco.
 
-Obiettivo
+##Obiettivo
   Sopravvivere il più a lungo possibile senza far scendere la fame a 0.
   Se la fame arriva a 0, il gioco finisce.
